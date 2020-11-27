@@ -1,0 +1,5 @@
+org\acme\people\stream\NameResource.class
+org\acme\people\stream\NameConverter.class
+org\acme\people\stream\NameGenerator.class
+org\acme\people\stream\GreetingResource.class
+org\acme\people\utils\CuteNameGenerator.class
